@@ -26,7 +26,7 @@ le sue funzionalitá in maniera intuitiva ed efficiente.
 
 ## Prerequisiti
 
-- [Java JDK](https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html) 21 o superiore
+- [Java JDK](https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html) 23 o superiore
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/download/)
 
 ## Installazione
