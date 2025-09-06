@@ -33,7 +33,7 @@ le sue funzionalitá in maniera intuitiva ed efficiente.
 
 1. Clona il repository:
     ```bash
-    git clone 
+    gh repo clone mariaritaombres/GestoreLibreria
     ```
 2. Apri IntelliJ IDEA.
 3. Seleziona `File` -> `Open` e scegli la cartella del progetto clonata.
