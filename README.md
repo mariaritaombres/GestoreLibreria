@@ -43,9 +43,9 @@ le sue funzionalitá in maniera intuitiva ed efficiente.
 
 ## Esecuzione
 
-1. Seleziona ed apri la cartella AppGUI.
+1. Seleziona ed apri la cartella 'AppGUI'.
 2. Trova la classe `App` .
-3. Fai clic con il tasto destro del mouse sulla classe `Main` e seleziona `Run 'Main'`.
+3. Fai clic con il tasto destro del mouse sulla classe `App` e seleziona `Run 'Main'`.
 
 
 ## Creato da 
