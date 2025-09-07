@@ -1,5 +1,5 @@
 # GestioneLibreria
-Progetto  ingegneria del software a.a.2024/25 dell'università della Calabria.
+Progetto individuale del corso ingegneria del software a.a.2024/25, Università della Calabria.
 
 ## Descrizione
 Il progetto sviluppato in questo repository si inserisce in questo panorama
